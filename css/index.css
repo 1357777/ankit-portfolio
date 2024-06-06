@@ -1,0 +1,48 @@
+.white { color:white;}
+.white { text-align:left;}
+.row { border:2p solid skyblue; border-radius:12px; padding:5px;}}
+.row { border-style:"solid";}
+.row a { color:white;}
+.row { background-color:darkorange; text-align:right;  }
+.row a {margin:20px;}
+.row {padding :20px;}
+.row a { text-decoration:none;}
+.img { text-align:center;}
+.img { padding :40px; }
+.center { text-align:center;}
+.center {color:blue;}
+.orange { color:darkorange; }
+.center { text-align:center; }
+.red { text-align: center; color:red;}
+.row { background-image:radial-gradient(white,black);}
+.middle {text-align:center}
+.middle{ border-style: double ; border-color: cyan; border-width:medium; font-family: algerian;margin-left:500px;margin-right:500px;
+  background-color:aliceblue;}
+.mid { text-align:center; color:white;border-radius:20px;}
+.tech {background-color:lavender;text-align:center; padding:2px; border-radius:12px;}
+.project {background-color:lavender;text-align:center; padding:2px; border-radius:12px;}
+.project {  margin-left:500px;margin-right:500px;}
+.project { margin-bottom:20px;}
+.case {color:cornflowerblue;}
+.tech {  margin-left:500px;margin-right:500px;}
+.row a:hover{background-color:firebrick;}
+.design { background-color:cornflowerblue;
+ color:white; 
+ text-align:center;
+ padding:20px;
+  font-family:algerian;}
+ .design  {  margin-left:500px;margin-right:500px;}
+ .all { background-color:ghostwhite;}
+ .mid { background-color:cornflowerblue; margin-right:500px; margin-left:500px;}
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
